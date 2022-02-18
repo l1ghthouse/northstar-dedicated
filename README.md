@@ -1,4 +1,4 @@
-<h1 align="center">northstar-dedicated</h1>
+<h1 align="center">northstar-dedicated</h1 >
 
 **Docker image for the [Northstar](https://northstar.tf) dedicated server.** <a href="https://github.com/pg9182/northstar-dedicated/actions/workflows/ci.yml"><img src="https://github.com/pg9182/northstar-dedicated/actions/workflows/ci.yml/badge.svg?branch=master&event=push" align="right"/></a>
 
